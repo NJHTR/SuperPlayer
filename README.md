@@ -1,6 +1,7 @@
-# 🎵 SeekPlayer - 你的专属音乐空间
+![image](https://github.com/user-attachments/assets/f6398548-253f-4dfa-829b-58432e884811)# 🎵 SeekPlayer - 你的专属音乐空间
 
-![SeekPlayer 界面截图](screenshot.png)
+![image](https://github.com/user-attachments/assets/ead52fd8-21c4-494b-a79d-1a0ae82ab88a)
+
 
 ## 🌟 应用简介
 
@@ -27,12 +28,13 @@ SeekPlayer 是一款设计优雅、操作简单的音乐播放器，让你在纯
 
 适用于 Windows/macOS/Linux 系统：
 
-[立即下载最新版](https://example.com/download)
+[立即下载最新版](https://github.com/NJHTR/SuperPlayer)
 
 ## 🎨 界面预览
 
-![播放界面](ui-1.png)
-![播放列表](ui-2.png)
+![image](https://github.com/user-attachments/assets/f46a9dfe-5778-4c65-98dc-32e38060fc1d)
+![image](https://github.com/user-attachments/assets/74933be0-3e3b-4b53-9662-90d0e87702d3)
+
 
 ## ❓ 使用帮助
 
@@ -53,12 +55,12 @@ SeekPlayer 是一款设计优雅、操作简单的音乐播放器，让你在纯
 
 ## 📜 版本历史
 
-- v1.0.0 (2023-10-15) 首次发布
-- v1.1.0 (2023-11-20) 新增主题定制功能
+- v1.0.0 (2025-5-3) 首次发布
+- v1.1.0 (2025-5-3 19:10) 新增主题定制功能
 
 ## 📮 联系我们
 
 有任何建议或问题？欢迎发送邮件至:  
 NJHTR1018@outlook.com
 
-[官方网站](https://seekplayer.com) | [用户社区](https://community.seekplayer.com)
+[官方网站](https://github.com/NJHTR/SuperPlayer) | [用户社区](https://github.com/NJHTR/SuperPlayer)
